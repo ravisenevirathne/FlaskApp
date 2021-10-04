@@ -6,6 +6,9 @@ steps
 3. Run the container on local pc
 4. Deploy the container to cloud
 5. Expose the container to world
+6. Scale conainer with load balancer
+
+
 
 Flask app with docker image
 
